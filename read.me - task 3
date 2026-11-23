@@ -1,0 +1,11 @@
+### Application Description – HR RecruitPro
+
+HR RecruitPro is an Android-based Recruitment Management Application developed to support HR professionals in managing recruitment activities.
+
+The application consists of four main screens: Welcome/Login, HR Dashboard, Candidate Management and Reports.
+
+Its main functionality is candidate registration and screening. HR professionals can enter candidate details, select job positions, review qualifications and experience, and view a preliminary screening recommendation.
+
+The dashboard displays recruitment statistics, while the reports section provides a summary of selected, rejected and pending candidates.
+
+The application uses sample candidate data and rule-based screening logic. It is designed as a basic prototype to demonstrate how technology can improve recruitment management and reduce manual HR work.
