@@ -30,3 +30,18 @@ These resources are collected for learning and understanding Human Resource Mana
 - Study modern HR strategies and standards.
 
 **Purpose:** These sources are useful for MBA HRM students, academic assignments, research and practical HR knowledge.
+HR-RecruitPro-AI-Recruitment-Assistant/
+│
+├── README.md
+│
+├── screenshots/
+│   ├── gem-configuration.png
+│   ├── test-01.png
+│   ├── test-02.png
+│   ├── test-03.png
+│   ├── test-04.png
+│   ├── test-05.png
+│   └── remaining-tests.png
+│
+└── project-details/
+    └── gem-instructions.txt
